@@ -19,7 +19,3 @@ This project is a simple CRUD (Create, Read, Update, Delete) application built u
 - **MongoDB**: NoSQL database for data storage.
 - **Mongoose**: ODM (Object Data Modeling) library for MongoDB and Node.js.
 
-## Demo
-
-- [Stack-overflow](https://stackoverflow.com/users/21197797/aleemath-ranseena-k-k)
-- [linkedin](https://www.linkedin.com/in/aleemath-ranseena-3b6154266/)
